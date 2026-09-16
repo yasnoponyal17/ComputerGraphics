@@ -8,6 +8,6 @@
 Меллстрой стреляет деньгами и убивает казино собак.
 ## Скриншоты
 ### Игра
-![game](/screenshots/gameplay.png)
+![game](screenshots/gameplay.png)
 ### Проигрыш
-![game over](/screenshots/gameover.png)
+![game over](screenshots/gameover.png)
