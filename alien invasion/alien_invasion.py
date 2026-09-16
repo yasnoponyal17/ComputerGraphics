@@ -30,7 +30,7 @@ class AlienInvasion:
         alien = Alien(self, 0, 0)
         available_width = self.settings.screen_width - 2 * alien.rect.width
         columns = available_width // (2 * alien.rect.width)
-        rows = max(2, (self.settings.screen_height - 420) //
+        rows = max(2, (self.settings.screen_height - 300) //
                    (2 * alien.rect.height))
         for row in range(rows):
             for col in range(columns):
